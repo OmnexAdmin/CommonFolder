@@ -40,7 +40,8 @@ import CommonMethods.ProjectMethods;
 			type(eleUserName, userName);
 			type(elePassWord, passWord);
             click(eleLogin,"Login button");
-			return new HomePage(driver,test);
+          	
+            return new HomePage(driver,test);
 			}
 		
 		public LoginPage invalidLogin(String userName, String passWord) {

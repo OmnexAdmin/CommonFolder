@@ -1068,3 +1068,8 @@
 2020-02-05 15:03:56,733 [main] INFO SeMethods - The element : Search icon is clicked 
 2020-02-05 15:03:57,290 [main] INFO SeMethods - The element : Level  is clicked 
 2020-02-05 15:04:18,302 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/0001 entered successfully in field :[[ChromeDriver: chrome on XP (3b792a926e400515b5fa6822389840f1)] -> id: gs_number]
+2020-02-11 12:42:04,992 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-11 12:42:05,645 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-11 12:42:06,187 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-11 12:42:13,001 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-11 12:42:14,994 [main] INFO SeMethods - The opened Browsers are closed

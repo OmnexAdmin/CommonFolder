@@ -50,6 +50,7 @@ public class DocProAdminHomePage extends ProjectMethods {
 	public FolderManagement clickOnFolderManagement() throws Throwable {
 		Thread.sleep(5000);
 		click(eleClickOnFolderMgmt,"Folder management menu");
+		System.out.println("test");
 		return new FolderManagement(driver,test);
 	}
 	
@@ -93,6 +94,9 @@ public class DocProAdminHomePage extends ProjectMethods {
 		return new DocProGroups(driver, test);
 		
 	}
+
 	
+	
+
 
 }
