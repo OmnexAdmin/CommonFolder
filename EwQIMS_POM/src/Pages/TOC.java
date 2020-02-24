@@ -93,7 +93,7 @@ public class TOC extends ProjectMethods{
 		
 	}
 	
-	public TOC reviseDocument(String levelName,String documentNumber,String attachment,String reasonForRequest, String changesRequired) throws Throwable {
+	public TOC reviseDocument(String levelName,String documentNumber,String attachment,String reasonForRequest, String changesRequired,String documentName,String revision,String docOwner) throws Throwable {
 		
 		switchToFrame(eleLevelsFrame);
 		//Thread.sleep(2000);
@@ -103,9 +103,11 @@ public class TOC extends ProjectMethods{
 		WebElement eleClickOnLevel= driver.findElementByXPath("//span[text()='"+levelName+"']");
 		click(eleClickOnLevel,"Level");
 		switchToFrame(eleTOCFrame);
+		Thread.sleep(5000);
 		WebElement eleRightClickOnDocumentNumberLink= driver.findElementByXPath("//a[text()='"+documentNumber+"']");
 		rightClickAction(eleRightClickOnDocumentNumberLink);
 		click(eleClickOnChangeRequestOption,"Change request option");
+		click(eleClickOnChooseFileToAttachDoc, "Choose file button");
 		eleClickOnChooseFileToAttachDoc.sendKeys(attachment);
 		//click(eleClickOnChooseFileToAttachDoc);
 		//uploadDocument(attachment);
@@ -113,8 +115,26 @@ public class TOC extends ProjectMethods{
 		type(eleEnterChangesRequired, changesRequired);
 		click(eleClickOnContinueButton,"Continue button");
 		
-		
-		
+		/*switchToFrame(eleLevelsFrame);
+		//Thread.sleep(2000);
+		click(eleEnterLevelNameToSearch,"Level search textbox");
+		type(eleEnterLevelNameToSearch, levelName);
+		click(eleClickOnSearchIcon,"Search icon");
+	
+		click(eleClickOnLevel,"Level");
+		switchToFrame(eleTOCFrame);
+		type(eleEnterDocNumSearchCriteria, documentNumber);
+		pressEnterKey(eleEnterDocNumSearchCriteria);
+		WebElement eleValidateDocumentNumberLink= driver.findElementByXPath("//a[text()='"+documentNumber+"']");
+		verifyExactText(eleValidateDocumentNumberLink, documentNumber); 
+		WebElement eleValidateDocumentName= driver.findElementByXPath("//td[text()='"+documentName+"']");
+		verifyExactText(eleValidateDocumentName, documentName);
+		WebElement eleValidateRevNum= driver.findElementByXPath("//td[text()='"+revision+"']");
+		verifyExactText(eleValidateRevNum, revision);
+		WebElement eleValidateDocOwner= driver.findElementByXPath("//td[text()='"+docOwner+"']");
+		verifyExactText(eleValidateDocOwner, docOwner);
+		*/
+
 		
 		return this;
 		
@@ -131,9 +151,10 @@ public class TOC extends ProjectMethods{
 		click(eleClickOnLevel,"Level ");
 		switchToFrame(eleTOCFrame);
 		type(eleEnterDocNumSearchCriteria, documentNumber);
-		eleEnterDocNumSearchCriteria.sendKeys(Keys.ENTER);
+		pressEnterKey(eleEnterDocNumSearchCriteria);
+		//eleEnterDocNumSearchCriteria.sendKeys(Keys.ENTER);
 		WebElement eleValidateDocumentNumberLink= driver.findElementByXPath("//a[text()='"+documentNumber+"']");
-		verifyExactText(eleValidateDocumentNumberLink, documentNumber);
+		verifyExactText(eleValidateDocumentNumberLink, documentNumber); 
 		WebElement eleValidateDocumentName= driver.findElementByXPath("//td[text()='"+documentName+"']");
 		verifyExactText(eleValidateDocumentName, documentName);
 		WebElement eleValidateRevNum= driver.findElementByXPath("//td[text()='"+revision+"']");

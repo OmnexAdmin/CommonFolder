@@ -20,18 +20,20 @@ package CommonMethods;
 		@BeforeSuite
 		public void beforeSuite(){
 			startResult();
+			System.out.println("Before suite ");
 		}
 
 		@BeforeTest
 		public void beforeTest(){
 		}
 		
-		@BeforeMethod 
+	@BeforeMethod 
 		public void beforeMethod(){
 			//test = startTestCase(testCaseName, testDescription);
-			test.assignCategory(category);
+		System.out.println("before method1");	
+		test.assignCategory(category);
 			test.assignAuthor(authors);
-			
+			System.out.println("before method2");	
 			startApp(browserName);
 			
 		}

@@ -95,6 +95,7 @@ public class NewDocumentDraft extends ProjectMethods{
 	public NewDocumentDraft uploadNewDraft(String searchCriteria,String documentNumber,String documentName,String attachment,String code ) throws Throwable {
 		
 		switchToFrame(eleFrame);
+		Thread.sleep(10000);
 		click(eleClickOnSelectLevelButton,"Select Level button");
 		Thread.sleep(5000);
 		//switchToWindow(0);

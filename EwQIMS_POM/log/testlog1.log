@@ -1073,3 +1073,1190 @@
 2020-02-11 12:42:06,187 [main] INFO SeMethods - The data: admin entered successfully in field
 2020-02-11 12:42:13,001 [main] INFO SeMethods - The element : Login button is clicked 
 2020-02-11 12:42:14,994 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-11 15:20:38,470 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-11 15:20:39,085 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-11 15:20:39,722 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-12 17:23:21,770 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:24,370 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:23:28,780 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:30,163 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:23:34,484 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:35,864 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:23:40,168 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:41,559 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:23:45,898 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:47,343 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:23:51,699 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:53,174 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:23:58,169 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:23:59,535 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:24:04,052 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:24:05,517 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:24:10,067 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:24:11,514 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:24:16,062 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:24:16,620 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:24:17,035 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:24:25,641 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:25:11,956 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:13,666 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:18,744 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:20,250 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:24,690 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:26,059 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:30,579 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:31,931 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:36,447 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:37,886 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:42,312 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:43,688 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:48,197 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:49,519 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:53,949 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:25:55,319 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:25:59,947 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:26:01,317 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:26:05,856 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:26:06,294 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:26:06,696 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:26:13,146 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:26:13,760 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-12 17:26:14,218 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-12 17:26:14,599 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:26:15,114 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-12 17:26:15,674 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-12 17:26:16,771 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-12 17:26:17,315 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-12 17:26:17,695 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:26:39,087 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:26:43,791 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:26:45,149 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:26:49,616 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:26:51,068 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:30:16,308 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:30:18,218 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:30:22,461 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:30:24,032 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:08,249 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:10,390 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:14,895 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:16,270 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:21,179 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:22,674 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:26,941 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:28,309 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:32,630 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:34,004 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:38,298 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:39,785 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:44,223 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:45,695 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:50,059 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:51,405 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:31:55,680 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:31:57,047 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:32:01,181 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:32:01,638 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:32:02,090 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:32:11,249 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:32:11,831 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-12 17:32:12,270 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-12 17:32:12,668 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:32:13,129 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-12 17:32:13,683 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-12 17:32:14,225 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-12 17:32:14,820 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-12 17:32:15,198 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:32:36,614 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:33:52,214 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:33:53,894 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:33:58,404 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:33:59,796 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:04,196 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:05,613 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:10,168 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:11,496 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:15,749 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:17,144 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:21,294 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:22,688 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:26,941 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:28,280 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:32,576 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:34,046 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:38,515 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:39,855 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:34:44,069 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:34:44,537 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:34:44,971 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:34:50,154 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:34:50,820 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-12 17:34:51,258 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-12 17:34:51,646 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:34:52,127 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-12 17:34:52,686 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-12 17:34:53,659 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-12 17:34:54,119 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-12 17:34:54,496 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:35:15,951 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:35:21,203 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:25,487 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:27,313 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:36:31,779 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:33,288 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:36:37,554 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:38,916 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:36:43,163 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:44,593 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:36:48,884 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:50,262 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:36:54,542 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:36:56,000 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:37:00,212 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:37:01,564 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:37:05,739 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:37:07,097 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:37:11,274 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:37:12,755 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:37:16,819 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:37:17,245 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:37:17,654 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:37:22,891 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:37:23,566 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-12 17:37:24,026 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-12 17:37:24,397 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:37:24,856 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-12 17:37:25,453 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-12 17:37:25,943 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-12 17:37:26,519 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-12 17:37:26,881 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:37:48,314 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:37:52,720 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:37:54,065 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:37:58,408 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:37:59,777 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:18,013 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:19,847 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:24,405 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:25,770 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:30,259 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:31,621 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:35,844 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:37,235 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:41,475 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:42,858 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:46,975 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:48,363 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:52,623 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:40:54,609 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:40:58,881 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:41:00,290 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:41:04,709 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:41:06,138 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:41:10,685 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:41:11,106 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:41:11,521 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:41:16,894 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:41:17,556 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-12 17:41:18,014 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-12 17:41:18,558 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:41:19,050 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-12 17:41:19,784 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-12 17:41:20,324 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-12 17:41:20,824 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-12 17:41:21,249 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:41:47,692 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:41:51,951 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:41:53,290 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:41:57,452 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:41:59,083 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-12 17:58:32,156 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-12 17:58:32,623 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-12 17:58:33,048 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-12 17:58:38,274 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-12 17:58:38,925 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-12 17:58:39,356 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-12 17:58:39,728 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:58:40,219 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-12 17:58:40,886 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-12 17:58:41,416 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-12 17:58:42,011 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-12 17:58:42,368 [main] INFO SeMethods - switch In to the Frame
+2020-02-12 17:59:09,069 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-13 11:38:01,916 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-13 11:38:02,629 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-13 11:38:03,140 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-13 11:38:12,136 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-13 11:38:12,719 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-13 11:38:13,170 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-13 11:38:13,578 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 11:38:14,067 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-13 11:38:14,641 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-13 11:38:15,181 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-13 11:38:15,717 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-13 11:38:16,119 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 11:38:21,696 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (8f2a08cb476852ccffa48d6f83308cec)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-13 11:38:22,168 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-13 11:38:24,389 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-13 11:41:02,317 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-13 11:41:02,831 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-13 11:41:03,351 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-13 11:41:09,088 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-13 11:41:09,652 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-13 11:41:10,125 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-13 11:41:10,529 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 11:41:11,032 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-13 11:41:11,583 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-13 11:41:12,106 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-13 11:41:12,662 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-13 11:41:13,095 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 11:41:18,673 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (6449dbd2a9885e131e221e3a7dd7af84)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-13 11:41:19,161 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-13 11:41:21,487 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-13 14:04:49,885 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-13 14:04:50,504 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-13 14:04:51,143 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-13 14:05:00,238 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-13 14:05:00,806 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-13 14:05:01,284 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-13 14:05:01,693 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 14:05:02,194 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-13 14:05:02,821 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-13 14:05:03,366 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-13 14:05:03,850 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-13 14:05:04,243 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 14:05:09,820 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (e91977f77ec03cff9898f268b69c9143)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-13 14:05:10,283 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-13 14:05:12,426 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-13 14:23:58,636 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-13 14:23:59,267 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-13 14:23:59,765 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-13 14:24:05,469 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-13 14:24:06,123 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-13 14:24:06,607 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-13 14:24:07,031 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 14:24:07,536 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-13 14:24:08,083 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-13 14:24:08,612 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-13 14:24:09,175 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-13 14:24:09,589 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 14:24:15,201 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (d649cb74ec881ba5275c4b1683550dbb)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-13 14:24:15,743 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-13 14:24:17,761 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-13 14:28:21,301 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-13 14:28:21,893 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-13 14:28:22,389 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-13 14:28:27,678 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-13 14:28:28,360 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-13 14:28:28,892 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-13 14:28:29,320 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 14:28:29,886 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-13 14:28:30,545 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-13 14:28:31,103 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-13 14:28:31,659 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-13 14:28:32,084 [main] INFO SeMethods - switch In to the Frame
+2020-02-13 14:28:37,689 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (d3a1659b9944b217a175de80ab5d816f)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-13 14:28:38,209 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-13 14:28:40,661 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:00:08,527 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:00:10,411 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:01:00,415 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:01:01,100 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:01:01,584 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:01:08,495 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:01:09,414 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-18 18:01:10,718 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:01:11,149 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:01:11,700 [main] INFO SeMethods - The data: QMS FC Purchasing entered successfully in field
+2020-02-18 18:01:12,381 [main] INFO SeMethods - The data: QMS/FC/P/00 entered successfully in field
+2020-02-18 18:01:12,813 [main] INFO SeMethods - The data: 2 entered successfully in field
+2020-02-18 18:01:13,375 [main] INFO SeMethods - The element : Allow site modification is clicked 
+2020-02-18 18:01:13,849 [main] INFO SeMethods - The element : Allow sub level creation is clicked 
+2020-02-18 18:01:14,516 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:01:14,993 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-18 18:01:16,807 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:01:21,038 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:01:21,579 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:01:22,049 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:01:29,230 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:01:29,993 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-18 18:01:31,293 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:02:05,257 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:02:05,818 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:02:06,308 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:02:13,535 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:02:15,795 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:02:20,056 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:02:20,544 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:02:21,028 [main] INFO SeMethods - The data: tet entered successfully in field
+2020-02-18 18:02:21,516 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:02:21,981 [main] INFO SeMethods - The expected text contains the actual Wrong Username / Password. Try again
+2020-02-18 18:02:23,361 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:02:27,665 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:02:28,175 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:02:28,705 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:02:35,504 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:02:36,660 [main] INFO SeMethods - The element : Clicked on users tab is clicked 
+2020-02-18 18:02:37,276 [main] INFO SeMethods - The element : User menu is clicked 
+2020-02-18 18:02:37,711 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:02:42,085 [main] INFO SeMethods - The element : Add button is clicked 
+2020-02-18 18:02:49,262 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:02:49,729 [main] INFO SeMethods - The data: Bhuvana entered successfully in field
+2020-02-18 18:02:50,258 [main] INFO SeMethods - The data: B entered successfully in field
+2020-02-18 18:02:50,699 [main] INFO SeMethods - The data: bh@a.com entered successfully in field
+2020-02-18 18:02:51,119 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:02:51,558 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:02:51,962 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:02:52,445 [main] INFO SeMethods - The element : User change password at next login checkbox is clicked 
+2020-02-18 18:02:52,918 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:02:53,383 [main] INFO SeMethods - The element : OK button  is clicked 
+2020-02-18 18:02:54,362 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:02:56,200 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:03:00,682 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:03:01,192 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:03:01,655 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:03:08,871 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:03:09,738 [main] INFO SeMethods - The element : Module Admin menu is clicked 
+2020-02-18 18:03:10,188 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:17,568 [main] INFO SeMethods - The element : Modules  dropdown is clicked 
+2020-02-18 18:03:18,738 [main] INFO SeMethods - The element : Doc pro Module is clicked 
+2020-02-18 18:03:19,286 [main] INFO SeMethods - The element : Select User button is clicked 
+2020-02-18 18:03:24,693 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:25,031 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:25,486 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:03:26,176 [main] INFO SeMethods - The element :  Search filter is clicked 
+2020-02-18 18:03:26,791 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-18 18:03:27,441 [main] INFO SeMethods - The element : Select USer Checkbox is clicked 
+2020-02-18 18:03:28,000 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-18 18:03:28,590 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:29,202 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:03:29,648 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-18 18:03:30,343 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-18 18:03:32,771 [main] INFO SeMethods - The expected text contains the actual EMP295
+2020-02-18 18:03:36,226 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:03:40,547 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:03:41,061 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:03:41,522 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:03:48,841 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:03:49,682 [main] INFO SeMethods - The element : Suite Admin menu is clicked 
+2020-02-18 18:03:52,081 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:52,844 [main] INFO SeMethods - The element : Select User button is clicked 
+2020-02-18 18:03:58,255 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:58,602 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:03:59,050 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:03:59,696 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-18 18:04:00,328 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-18 18:04:00,994 [main] INFO SeMethods - The element : select User checkox is clicked 
+2020-02-18 18:04:01,594 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-18 18:04:02,541 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:04:03,331 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:04:03,781 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-18 18:04:04,250 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-18 18:04:06,651 [main] INFO SeMethods - The expected text contains the actual EMP295
+2020-02-18 18:04:07,965 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:04:12,217 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:04:12,678 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:04:13,161 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:04:20,137 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:04:21,258 [main] INFO SeMethods - The element : Clicked on users tab is clicked 
+2020-02-18 18:04:21,988 [main] INFO SeMethods - The element : User preference menu is clicked 
+2020-02-18 18:04:22,426 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:04:24,431 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:04:25,768 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:07:21,374 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:07:21,986 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:07:22,514 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:07:30,697 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:07:31,572 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-18 18:07:32,087 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:07:33,003 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:07:33,632 [main] INFO SeMethods - The data: QMS FC Purchasing entered successfully in field
+2020-02-18 18:07:34,368 [main] INFO SeMethods - The data: QMS/FC/P/00 entered successfully in field
+2020-02-18 18:07:34,790 [main] INFO SeMethods - The data: 2 entered successfully in field
+2020-02-18 18:07:35,271 [main] INFO SeMethods - The element : Allow site modification is clicked 
+2020-02-18 18:07:35,729 [main] INFO SeMethods - The element : Allow sub level creation is clicked 
+2020-02-18 18:07:36,385 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:07:36,864 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-18 18:07:38,450 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:07:43,022 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:07:43,525 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-18 18:07:43,987 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-18 18:07:50,930 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:07:51,773 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-18 18:07:53,043 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:07:53,728 [main] INFO SeMethods - The data: QMS FC Purchasing entered successfully in field
+2020-02-18 18:07:54,850 [main] INFO SeMethods - The element : Search is clicked 
+2020-02-18 18:07:55,440 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (c1d0cbe467da0fd94580d4959bc2387a)] -> xpath: //span[text()='QMS FC Purchasing']]
+2020-02-18 18:07:55,991 [main] INFO SeMethods - The element : New button is clicked 
+2020-02-18 18:07:56,472 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:07:56,934 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:07:57,433 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/00 entered successfully in field
+2020-02-18 18:07:57,843 [main] INFO SeMethods - The data: 5 entered successfully in field
+2020-02-18 18:07:58,318 [main] INFO SeMethods - The element : Allow site modification is clicked 
+2020-02-18 18:07:58,801 [main] INFO SeMethods - The element : Allow sub level creation is clicked 
+2020-02-18 18:07:59,424 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:07:59,900 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-18 18:08:01,392 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:08:05,676 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:08:06,150 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:08:06,632 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:08:12,667 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:08:18,207 [main] INFO SeMethods - The element : Folder management menu is clicked 
+2020-02-18 18:08:19,860 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:08:20,419 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:08:21,127 [main] INFO SeMethods - The element : Clicked on search icon is clicked 
+2020-02-18 18:08:21,630 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-18 18:08:22,045 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:08:27,717 [main] INFO SeMethods - The element : In-use Checkbox is clicked 
+2020-02-18 18:08:28,204 [main] INFO SeMethods - The element : Revision Number Option is clicked 
+2020-02-18 18:08:28,929 [main] INFO SeMethods - The element : Custom Revision is clicked 
+2020-02-18 18:08:29,494 [main] INFO SeMethods - The element : Major revision is clicked 
+2020-02-18 18:08:29,917 [main] INFO SeMethods - The element : A as Major revision is clicked 
+2020-02-18 18:08:30,395 [main] INFO SeMethods - The element :  Minor revision is clicked 
+2020-02-18 18:08:30,791 [main] INFO SeMethods - The element : I as Major revision is clicked 
+2020-02-18 18:08:31,296 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-18 18:08:31,950 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:08:32,414 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-18 18:08:33,747 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:08:38,468 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:08:38,962 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:08:39,430 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:08:45,416 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:08:45,990 [main] INFO SeMethods - The element : Groups menu is clicked 
+2020-02-18 18:08:46,807 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:08:47,719 [main] INFO SeMethods - The element : Add button is clicked 
+2020-02-18 18:08:48,311 [main] INFO SeMethods - The data: Doc Pro Admin Group entered successfully in field
+2020-02-18 18:08:48,925 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-18 18:08:49,369 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-18 18:08:49,831 [main] INFO SeMethods - The data: Doc Pro Admin Group entered successfully in field
+2020-02-18 18:08:50,260 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-18 18:08:50,708 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-18 18:08:53,250 [main] INFO SeMethods - The element : Add users icon is clicked 
+2020-02-18 18:09:33,822 [main] INFO SeMethods - switch In to Multiple Frames
+2020-02-18 18:09:34,349 [main] INFO SeMethods - The element : Code textbox is clicked 
+2020-02-18 18:09:34,812 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:09:35,299 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-18 18:09:35,937 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-18 18:09:36,541 [main] INFO SeMethods - The element : Select User Checkbox is clicked 
+2020-02-18 18:10:02,105 [main] INFO SeMethods - The element : Approval access rights is clicked 
+2020-02-18 18:10:02,577 [main] INFO SeMethods - The element : Restricted view access rights is clicked 
+2020-02-18 18:10:03,022 [main] INFO SeMethods - The element : create sub folder access rights is clicked 
+2020-02-18 18:10:03,587 [main] INFO SeMethods - The element : Save is clicked 
+2020-02-18 18:10:04,091 [main] INFO SeMethods - The element : OK button is clicked 
+2020-02-18 18:10:05,417 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:10:09,547 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:10:10,026 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:10:10,533 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:10:16,991 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:10:22,565 [main] INFO SeMethods - The element : Folder management menu is clicked 
+2020-02-18 18:10:24,229 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:10:24,785 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:10:25,972 [main] INFO SeMethods - The element : Clicked on search icon is clicked 
+2020-02-18 18:10:26,632 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (ab9968d7837cef0df9b29be554f950d7)] -> xpath: //span[text()='01.FCPA']]
+2020-02-18 18:10:27,228 [main] INFO SeMethods - The element : Access for sites is clicked 
+2020-02-18 18:10:27,620 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:10:29,147 [main] INFO SeMethods - The element : No access to the folder for sites is clicked 
+2020-02-18 18:10:29,621 [main] INFO SeMethods - The element : No access to the document for sites is clicked 
+2020-02-18 18:10:29,961 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:10:30,361 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-18 18:10:30,815 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (ab9968d7837cef0df9b29be554f950d7)] -> xpath: //span[text()='01.FCPA']]
+2020-02-18 18:10:31,333 [main] INFO SeMethods - The element : Access for groups is clicked 
+2020-02-18 18:10:31,721 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:10:32,289 [main] INFO SeMethods - The element : Uncheck site inherit for the group is clicked 
+2020-02-18 18:10:32,811 [main] INFO SeMethods - The element : Set Attach rights to the folder for groups is clicked 
+2020-02-18 18:10:33,338 [main] INFO SeMethods - The element : Uncheck  site inherit for the group is clicked 
+2020-02-18 18:10:33,847 [main] INFO SeMethods - The element : Set Attach rights to the folder for groups is clicked 
+2020-02-18 18:10:35,198 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:10:39,666 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:10:40,165 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:10:40,650 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:10:46,878 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:10:47,371 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:10:47,900 [main] INFO SeMethods - The element : New document request menu is clicked 
+2020-02-18 18:10:48,317 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:10:49,534 [main] INFO SeMethods - The element : Select Level button is clicked 
+2020-02-18 18:10:53,035 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:11:13,528 [main] INFO SeMethods - The element : Search textbox  is clicked 
+2020-02-18 18:11:14,053 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:11:14,575 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:11:15,097 [main] INFO SeMethods - The element : level is clicked 
+2020-02-18 18:11:15,650 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-18 18:11:16,031 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:11:16,428 [main] INFO SeMethods - The data: 01 entered successfully in field
+2020-02-18 18:11:17,020 [main] INFO SeMethods - The data: Assignment and Delegation of Work entered successfully in field
+2020-02-18 18:11:17,738 [main] INFO SeMethods - The element : Add button is clicked 
+2020-02-18 18:11:24,187 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:11:28,515 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:11:28,984 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:11:29,530 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:11:35,217 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:11:35,716 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:11:36,262 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-18 18:11:36,665 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:11:38,813 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:11:43,166 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:11:43,619 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:11:44,068 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:11:50,393 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:11:50,932 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:11:51,474 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-18 18:11:51,844 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:15:38,471 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:15:42,787 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:15:43,267 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:15:43,732 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:15:50,041 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:15:50,618 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:15:51,163 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-18 18:15:51,532 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:19:38,225 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:19:43,137 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:19:43,657 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:19:44,129 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:19:50,837 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:19:51,350 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:19:51,809 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-18 18:19:52,200 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:19:52,698 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-18 18:19:53,287 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:19:53,851 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:19:54,430 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-18 18:19:54,829 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:20:00,350 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (fb7b017deab18a39adc36fe0cc033484)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-18 18:20:00,842 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-18 18:20:03,857 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:20:08,163 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:20:08,617 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:20:09,089 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:20:15,275 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:20:15,821 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:20:16,282 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-18 18:20:16,665 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:20:17,137 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-18 18:20:17,699 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:20:18,210 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:20:18,777 [main] INFO SeMethods - The element : Level  is clicked 
+2020-02-18 18:20:19,172 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:20:22,966 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/0001 entered successfully in field
+2020-02-18 18:20:23,449 [main] INFO SeMethods - Enter key is pressed
+2020-02-18 18:20:45,664 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:20:49,849 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:20:50,334 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:20:50,778 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:20:57,013 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:20:57,540 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:20:58,005 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-18 18:20:58,430 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:20:58,927 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-18 18:20:59,618 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:21:00,146 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:21:00,731 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-18 18:21:01,144 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:21:04,068 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (5115e592644cd2e710ad0ac05337b4d5)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-18 18:21:04,575 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-18 18:21:05,469 [main] INFO SeMethods - The element : Delete document checkbox is clicked 
+2020-02-18 18:21:06,105 [main] INFO SeMethods - The data: Not following as per standards entered successfully in field
+2020-02-18 18:21:06,671 [main] INFO SeMethods - The data: Need more changes on this document entered successfully in field
+2020-02-18 18:21:07,151 [main] INFO SeMethods - The element : Continue button is clicked 
+2020-02-18 18:21:08,584 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:33:13,140 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:33:13,730 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:33:14,217 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:33:20,768 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:33:21,324 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:33:21,865 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-18 18:33:22,423 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:33:25,425 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:33:29,822 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:33:30,312 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:34:00,107 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:34:00,644 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:34:01,103 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:34:06,960 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:34:07,483 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:34:08,045 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-18 18:34:08,664 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:34:09,549 [main] INFO SeMethods - The element : Select Level button is clicked 
+2020-02-18 18:34:15,020 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:34:35,527 [main] INFO SeMethods - The element : Search textbox  is clicked 
+2020-02-18 18:34:36,054 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:34:36,594 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:34:37,046 [main] INFO SeMethods - The element : level is clicked 
+2020-02-18 18:34:37,557 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-18 18:34:37,894 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:34:38,276 [main] INFO SeMethods - The data: 02 entered successfully in field
+2020-02-18 18:34:38,766 [main] INFO SeMethods - The data: EV MR Evidence entered successfully in field
+2020-02-18 18:34:39,364 [main] INFO SeMethods - The element : Draft viewers icon is clicked 
+2020-02-18 18:35:19,831 [main] INFO SeMethods - switch In to Multiple Frames
+2020-02-18 18:35:35,293 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-18 18:35:35,872 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-18 18:35:36,608 [main] INFO SeMethods - The element :  Equals filter in search criteria is clicked 
+2020-02-18 18:35:37,215 [main] INFO SeMethods - The element : Select user checkbox is clicked 
+2020-02-18 18:35:37,751 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-18 18:35:38,082 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:35:38,525 [main] INFO SeMethods - The element : Continue button is clicked 
+2020-02-18 18:35:41,552 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:35:46,188 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:35:46,686 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:35:47,200 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:35:53,727 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:35:54,236 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:35:54,758 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-18 18:35:55,099 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:35:55,620 [main] INFO SeMethods - The element : Draft requests needing viewing is clicked 
+2020-02-18 18:35:56,125 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:35:56,602 [main] INFO SeMethods - The element : Document Name is clicked 
+2020-02-18 18:35:57,182 [main] INFO SeMethods - The data: EV MR Evidence entered successfully in field
+2020-02-18 18:35:57,575 [main] INFO SeMethods - Enter key is pressed
+2020-02-18 18:35:58,152 [main] INFO SeMethods - The element : Reply link is clicked 
+2020-02-18 18:36:01,645 [main] INFO SeMethods - The element : Attach document checkbox is clicked 
+2020-02-18 18:36:05,254 [main] INFO SeMethods - The data: This draft is ok to proceeed further entered successfully in field
+2020-02-18 18:36:05,747 [main] INFO SeMethods - The element : Submit button is clicked 
+2020-02-18 18:36:10,130 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:36:14,356 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:36:14,851 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:36:15,327 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:36:21,714 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:36:22,239 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:36:22,743 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-18 18:36:23,089 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:36:23,609 [main] INFO SeMethods - The element : Pending Document Drafts tab is clicked 
+2020-02-18 18:36:24,122 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:36:24,597 [main] INFO SeMethods - The element : Document Name is clicked 
+2020-02-18 18:36:25,093 [main] INFO SeMethods - The data: EV MR Evidence entered successfully in field
+2020-02-18 18:36:25,496 [main] INFO SeMethods - Enter key is pressed
+2020-02-18 18:36:26,151 [main] INFO SeMethods - The element : Clicked on Inprocess Link is clicked 
+2020-02-18 18:36:32,177 [main] INFO SeMethods - The element : Change request button is clicked 
+2020-02-18 18:36:33,744 [main] INFO SeMethods - The data: Need to change it into document entered successfully in field
+2020-02-18 18:36:34,167 [main] INFO SeMethods - The data: NA entered successfully in field
+2020-02-18 18:36:34,634 [main] INFO SeMethods - The element : Submit button is clicked 
+2020-02-18 18:36:36,163 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:36:40,442 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:36:40,904 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:36:41,364 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:36:47,656 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:36:48,437 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:36:48,915 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-18 18:36:49,331 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:36:49,836 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-18 18:36:50,512 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:36:51,053 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:36:51,571 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-18 18:36:51,995 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:37:18,457 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-18 18:37:22,799 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-18 18:37:23,253 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-18 18:37:23,736 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-18 18:37:30,110 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-18 18:37:30,634 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-18 18:37:31,091 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-18 18:37:31,493 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:37:31,978 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-18 18:37:32,530 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-18 18:37:33,064 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-18 18:37:33,627 [main] INFO SeMethods - The element : Level  is clicked 
+2020-02-18 18:37:34,010 [main] INFO SeMethods - switch In to the Frame
+2020-02-18 18:37:37,136 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/0001 entered successfully in field
+2020-02-18 18:37:37,668 [main] INFO SeMethods - Enter key is pressed
+2020-02-20 11:53:18,253 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:53:19,099 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 11:53:19,636 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 11:53:26,094 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:53:28,133 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:53:32,464 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:53:32,933 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:53:33,427 [main] INFO SeMethods - The data: tet entered successfully in field
+2020-02-20 11:53:33,941 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:53:34,470 [main] INFO SeMethods - The expected text contains the actual Wrong Username / Password. Try again
+2020-02-20 11:53:36,369 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:53:40,563 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:53:41,081 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 11:53:41,597 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 11:53:48,736 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:53:49,746 [main] INFO SeMethods - The element : Clicked on users tab is clicked 
+2020-02-20 11:53:50,412 [main] INFO SeMethods - The element : User menu is clicked 
+2020-02-20 11:53:51,076 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:53:51,791 [main] INFO SeMethods - The element : Add button is clicked 
+2020-02-20 11:53:58,516 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:53:59,018 [main] INFO SeMethods - The data: Bhuvana entered successfully in field
+2020-02-20 11:53:59,609 [main] INFO SeMethods - The data: B entered successfully in field
+2020-02-20 11:54:00,127 [main] INFO SeMethods - The data: bh@a.com entered successfully in field
+2020-02-20 11:54:00,556 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:54:00,976 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:54:01,372 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:54:01,838 [main] INFO SeMethods - The element : User change password at next login checkbox is clicked 
+2020-02-20 11:54:02,325 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-20 11:54:02,869 [main] INFO SeMethods - The element : OK button  is clicked 
+2020-02-20 11:54:03,862 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:54:05,681 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:54:09,894 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:54:10,455 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 11:54:10,952 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 11:54:17,867 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:54:18,734 [main] INFO SeMethods - The element : Module Admin menu is clicked 
+2020-02-20 11:54:20,752 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:54:23,029 [main] INFO SeMethods - The element : Modules  dropdown is clicked 
+2020-02-20 11:54:24,125 [main] INFO SeMethods - The element : Doc pro Module is clicked 
+2020-02-20 11:54:24,709 [main] INFO SeMethods - The element : Select User button is clicked 
+2020-02-20 11:54:30,131 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:54:30,457 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:54:30,956 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:54:31,525 [main] INFO SeMethods - The element :  Search filter is clicked 
+2020-02-20 11:54:32,205 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-20 11:54:32,829 [main] INFO SeMethods - The element : Select USer Checkbox is clicked 
+2020-02-20 11:54:33,566 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-20 11:54:34,661 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:54:35,119 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:54:35,785 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-20 11:54:36,266 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-20 11:54:38,677 [main] INFO SeMethods - The expected text contains the actual EMP295
+2020-02-20 11:54:42,043 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:54:46,258 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:54:46,754 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 11:54:47,225 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 11:54:54,656 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:54:55,568 [main] INFO SeMethods - The element : Suite Admin menu is clicked 
+2020-02-20 11:54:58,125 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:54:58,905 [main] INFO SeMethods - The element : Select User button is clicked 
+2020-02-20 11:55:04,319 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:55:04,657 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:55:05,110 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:55:05,727 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-20 11:55:06,389 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-20 11:55:07,056 [main] INFO SeMethods - The element : select User checkox is clicked 
+2020-02-20 11:55:07,674 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-20 11:55:08,715 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:55:09,450 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:55:09,890 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-20 11:55:10,351 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-20 11:55:12,766 [main] INFO SeMethods - The expected text contains the actual EMP295
+2020-02-20 11:55:14,111 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:55:18,369 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:55:18,831 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:55:19,293 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:55:26,273 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:55:27,240 [main] INFO SeMethods - The element : Clicked on users tab is clicked 
+2020-02-20 11:55:27,921 [main] INFO SeMethods - The element : User preference menu is clicked 
+2020-02-20 11:55:28,340 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:55:35,795 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-20 11:55:37,163 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:56:13,730 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:56:14,321 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 11:56:14,820 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 11:56:22,720 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:56:23,559 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-20 11:56:24,067 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:56:25,144 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:56:25,783 [main] INFO SeMethods - The data: QMS FC Purchasing entered successfully in field
+2020-02-20 11:56:26,308 [main] INFO SeMethods - The data: QMS/FC/P/00 entered successfully in field
+2020-02-20 11:56:26,827 [main] INFO SeMethods - The data: 2 entered successfully in field
+2020-02-20 11:56:27,334 [main] INFO SeMethods - The element : Allow site modification is clicked 
+2020-02-20 11:56:27,797 [main] INFO SeMethods - The element : Allow sub level creation is clicked 
+2020-02-20 11:56:28,491 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-20 11:56:28,959 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-20 11:56:30,697 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:56:35,361 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:56:35,889 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 11:56:36,389 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 11:56:43,507 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:56:44,357 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-20 11:56:44,901 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:56:45,462 [main] INFO SeMethods - The data: QMS FC Purchasing entered successfully in field
+2020-02-20 11:56:47,145 [main] INFO SeMethods - The element : Search is clicked 
+2020-02-20 11:56:47,677 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (a1c7d601241200214f76757eab47be41)] -> xpath: //span[text()='QMS FC Purchasing']]
+2020-02-20 11:56:48,268 [main] INFO SeMethods - The element : New button is clicked 
+2020-02-20 11:56:48,734 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:56:49,192 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 11:56:49,725 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/00 entered successfully in field
+2020-02-20 11:56:50,134 [main] INFO SeMethods - The data: 5 entered successfully in field
+2020-02-20 11:56:50,608 [main] INFO SeMethods - The element : Allow site modification is clicked 
+2020-02-20 11:56:51,059 [main] INFO SeMethods - The element : Allow sub level creation is clicked 
+2020-02-20 11:56:51,700 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-20 11:56:52,177 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-20 11:56:53,690 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:56:58,031 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:56:58,487 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:56:58,985 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:57:05,576 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:57:11,182 [main] INFO SeMethods - The element : Folder management menu is clicked 
+2020-02-20 11:57:12,823 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:57:13,441 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 11:57:14,125 [main] INFO SeMethods - The element : Clicked on search icon is clicked 
+2020-02-20 11:57:14,669 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-20 11:57:15,078 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:57:20,795 [main] INFO SeMethods - The element : In-use Checkbox is clicked 
+2020-02-20 11:57:21,299 [main] INFO SeMethods - The element : Revision Number Option is clicked 
+2020-02-20 11:57:22,017 [main] INFO SeMethods - The element : Custom Revision is clicked 
+2020-02-20 11:57:22,620 [main] INFO SeMethods - The element : Major revision is clicked 
+2020-02-20 11:57:23,049 [main] INFO SeMethods - The element : A as Major revision is clicked 
+2020-02-20 11:57:23,541 [main] INFO SeMethods - The element :  Minor revision is clicked 
+2020-02-20 11:57:23,942 [main] INFO SeMethods - The element : I as Major revision is clicked 
+2020-02-20 11:57:24,412 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-20 11:57:25,005 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-20 11:57:25,462 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-20 11:57:26,809 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:57:30,997 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:57:31,460 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:57:31,927 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:57:38,280 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:57:38,832 [main] INFO SeMethods - The element : Groups menu is clicked 
+2020-02-20 11:57:39,833 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:57:40,725 [main] INFO SeMethods - The element : Add button is clicked 
+2020-02-20 11:57:41,339 [main] INFO SeMethods - The data: Doc Pro Admin Group entered successfully in field
+2020-02-20 11:57:41,967 [main] INFO SeMethods - The element : Save button is clicked 
+2020-02-20 11:57:42,449 [main] INFO SeMethods - The element : Ok button is clicked 
+2020-02-20 11:57:42,938 [main] INFO SeMethods - The data: Doc Pro Admin Group entered successfully in field
+2020-02-20 11:57:43,372 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-20 11:57:43,821 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-20 11:57:46,351 [main] INFO SeMethods - The element : Add users icon is clicked 
+2020-02-20 11:58:26,801 [main] INFO SeMethods - switch In to Multiple Frames
+2020-02-20 11:58:27,314 [main] INFO SeMethods - The element : Code textbox is clicked 
+2020-02-20 11:58:27,793 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 11:58:28,294 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-20 11:58:28,922 [main] INFO SeMethods - The element : Equals filter in search criteria is clicked 
+2020-02-20 11:58:29,510 [main] INFO SeMethods - The element : Select User Checkbox is clicked 
+2020-02-20 11:58:55,019 [main] INFO SeMethods - The element : Approval access rights is clicked 
+2020-02-20 11:58:55,468 [main] INFO SeMethods - The element : Restricted view access rights is clicked 
+2020-02-20 11:58:55,933 [main] INFO SeMethods - The element : create sub folder access rights is clicked 
+2020-02-20 11:58:56,463 [main] INFO SeMethods - The element : Save is clicked 
+2020-02-20 11:58:56,952 [main] INFO SeMethods - The element : OK button is clicked 
+2020-02-20 11:58:58,317 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:59:02,677 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:59:03,160 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:59:03,644 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:59:10,672 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:59:16,235 [main] INFO SeMethods - The element : Folder management menu is clicked 
+2020-02-20 11:59:17,866 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:59:18,464 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 11:59:19,181 [main] INFO SeMethods - The element : Clicked on search icon is clicked 
+2020-02-20 11:59:19,799 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (1f9cc5371c977046c0c031f9b418dcaf)] -> xpath: //span[text()='01.FCPA']]
+2020-02-20 11:59:20,303 [main] INFO SeMethods - The element : Access for sites is clicked 
+2020-02-20 11:59:20,709 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:59:26,386 [main] INFO SeMethods - The element : No access to the folder for sites is clicked 
+2020-02-20 11:59:26,863 [main] INFO SeMethods - The element : No access to the document for sites is clicked 
+2020-02-20 11:59:27,219 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:59:27,608 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-20 11:59:28,065 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (1f9cc5371c977046c0c031f9b418dcaf)] -> xpath: //span[text()='01.FCPA']]
+2020-02-20 11:59:28,578 [main] INFO SeMethods - The element : Access for groups is clicked 
+2020-02-20 11:59:28,905 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:59:29,467 [main] INFO SeMethods - The element : Uncheck site inherit for the group is clicked 
+2020-02-20 11:59:29,928 [main] INFO SeMethods - The element : Set Attach rights to the folder for groups is clicked 
+2020-02-20 11:59:30,367 [main] INFO SeMethods - The element : Uncheck  site inherit for the group is clicked 
+2020-02-20 11:59:30,853 [main] INFO SeMethods - The element : Set Attach rights to the folder for groups is clicked 
+2020-02-20 11:59:32,209 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 11:59:36,699 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 11:59:37,166 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 11:59:37,630 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 11:59:44,159 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 11:59:44,705 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 11:59:45,244 [main] INFO SeMethods - The element : New document request menu is clicked 
+2020-02-20 11:59:45,651 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 11:59:47,484 [main] INFO SeMethods - The element : Select Level button is clicked 
+2020-02-20 11:59:51,112 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:00:11,616 [main] INFO SeMethods - The element : Search textbox  is clicked 
+2020-02-20 12:00:12,129 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 12:00:12,723 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-20 12:00:13,237 [main] INFO SeMethods - The element : level is clicked 
+2020-02-20 12:00:13,836 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-20 12:00:14,233 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:00:14,638 [main] INFO SeMethods - The data: 01 entered successfully in field
+2020-02-20 12:00:15,243 [main] INFO SeMethods - The data: Assignment and Delegation of Work entered successfully in field
+2020-02-20 12:00:15,929 [main] INFO SeMethods - The element : Add button is clicked 
+2020-02-20 12:00:22,435 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:00:26,798 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:00:27,289 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:00:27,757 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:00:34,235 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:00:34,861 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:00:35,474 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-20 12:00:35,914 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:00:43,039 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:00:47,490 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:00:47,964 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:00:48,423 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:00:54,229 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:00:54,793 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:00:55,324 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-20 12:00:55,745 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:04:35,495 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:04:37,210 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:04:41,908 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:04:43,477 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:04:47,822 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:04:49,214 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:04:53,633 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:04:55,050 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:04:59,439 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:05:00,909 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:05:05,279 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:05:06,730 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:05:11,116 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:05:11,602 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:05:12,055 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:05:18,538 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:05:19,093 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:05:19,642 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-20 12:05:20,183 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:05:22,851 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:05:27,176 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:05:27,641 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:05:28,110 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:05:29,002 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:09:57,283 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:09:59,597 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:03,845 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:05,348 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:09,715 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:11,094 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:15,335 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:16,858 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:21,042 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:22,468 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:26,945 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:28,388 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:32,506 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:32,995 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:10:33,463 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:10:40,102 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:10:40,659 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:10:41,277 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-20 12:10:41,805 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:10:44,380 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:10:48,973 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:10:49,443 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:10:49,923 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:10:56,283 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:10:56,861 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:10:57,408 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-20 12:10:57,787 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:14:31,305 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:14:33,102 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:14:37,433 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:14:38,926 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:14:43,150 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:14:44,563 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:14:48,839 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:14:50,284 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:14:55,844 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:14:57,242 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:15:01,564 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:15:02,990 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:15:07,214 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:15:07,693 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:15:08,176 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:15:14,271 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:15:14,876 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:15:15,413 [main] INFO SeMethods - The element : New document draft menu is clicked 
+2020-02-20 12:15:15,914 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:15:26,456 [main] INFO SeMethods - The element : Select Level button is clicked 
+2020-02-20 12:15:31,896 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:15:52,423 [main] INFO SeMethods - The element : Search textbox  is clicked 
+2020-02-20 12:15:52,908 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 12:15:53,433 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-20 12:15:53,991 [main] INFO SeMethods - The element : level is clicked 
+2020-02-20 12:15:54,504 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-20 12:15:54,845 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:15:55,245 [main] INFO SeMethods - The data: 02 entered successfully in field
+2020-02-20 12:15:55,755 [main] INFO SeMethods - The data: EV MR Evidence entered successfully in field
+2020-02-20 12:15:56,411 [main] INFO SeMethods - The element : Draft viewers icon is clicked 
+2020-02-20 12:16:36,920 [main] INFO SeMethods - switch In to Multiple Frames
+2020-02-20 12:16:52,445 [main] INFO SeMethods - The data: EMP295 entered successfully in field
+2020-02-20 12:16:53,025 [main] INFO SeMethods - The element : Search filter is clicked 
+2020-02-20 12:16:53,740 [main] INFO SeMethods - The element :  Equals filter in search criteria is clicked 
+2020-02-20 12:16:54,382 [main] INFO SeMethods - The element : Select user checkbox is clicked 
+2020-02-20 12:16:54,943 [main] INFO SeMethods - The element : Done button is clicked 
+2020-02-20 12:16:55,288 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:16:55,774 [main] INFO SeMethods - The element : Continue button is clicked 
+2020-02-20 12:16:58,065 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:17:02,317 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:17:02,802 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:17:03,274 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:17:09,644 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:17:10,178 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:17:10,711 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-20 12:17:11,084 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:17:11,569 [main] INFO SeMethods - The element : Draft requests needing viewing is clicked 
+2020-02-20 12:17:12,073 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:17:12,563 [main] INFO SeMethods - The element : Document Name is clicked 
+2020-02-20 12:17:13,078 [main] INFO SeMethods - The data: EV MR Evidence entered successfully in field
+2020-02-20 12:17:13,505 [main] INFO SeMethods - Enter key is pressed
+2020-02-20 12:17:14,071 [main] INFO SeMethods - The element : Reply link is clicked 
+2020-02-20 12:17:20,073 [main] INFO SeMethods - The element : Attach document checkbox is clicked 
+2020-02-20 12:17:23,753 [main] INFO SeMethods - The data: This draft is ok to proceeed further entered successfully in field
+2020-02-20 12:17:24,220 [main] INFO SeMethods - The element : Submit button is clicked 
+2020-02-20 12:17:28,641 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:17:32,924 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:17:33,441 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:17:33,892 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:17:40,094 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:17:40,666 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:17:41,210 [main] INFO SeMethods - The element : Actions menu is clicked 
+2020-02-20 12:17:41,571 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:17:42,218 [main] INFO SeMethods - The element : Pending Document Drafts tab is clicked 
+2020-02-20 12:17:42,750 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:17:43,255 [main] INFO SeMethods - The element : Document Name is clicked 
+2020-02-20 12:17:43,912 [main] INFO SeMethods - The data: EV MR Evidence entered successfully in field
+2020-02-20 12:17:44,318 [main] INFO SeMethods - Enter key is pressed
+2020-02-20 12:17:44,958 [main] INFO SeMethods - The element : Clicked on Inprocess Link is clicked 
+2020-02-20 12:17:50,055 [main] INFO SeMethods - The element : Change request button is clicked 
+2020-02-20 12:17:55,538 [main] INFO SeMethods - The data: Need to change it into document entered successfully in field
+2020-02-20 12:17:55,978 [main] INFO SeMethods - The data: NA entered successfully in field
+2020-02-20 12:17:56,460 [main] INFO SeMethods - The element : Submit button is clicked 
+2020-02-20 12:17:58,123 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:18:02,288 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:18:02,739 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:18:03,205 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:18:09,058 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:18:09,632 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:18:10,110 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-20 12:18:10,501 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:18:10,997 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-20 12:18:11,567 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 12:18:12,247 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-20 12:18:12,855 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-20 12:18:13,249 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:18:18,828 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (014c542d9b0dbad63e8c77b1edca3bce)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-20 12:18:19,319 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-20 12:18:21,434 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:18:25,873 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:18:26,382 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:18:26,867 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:18:32,854 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:18:33,453 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:18:33,902 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-20 12:18:34,301 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:18:34,792 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-20 12:18:35,338 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 12:18:35,957 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-20 12:18:36,494 [main] INFO SeMethods - The element : Level  is clicked 
+2020-02-20 12:18:36,893 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:18:40,721 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/0001 entered successfully in field
+2020-02-20 12:18:41,138 [main] INFO SeMethods - Enter key is pressed
+2020-02-20 12:19:03,258 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:19:07,524 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:19:08,006 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:19:08,498 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:19:15,003 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:19:15,577 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:19:16,048 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-20 12:19:16,462 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:19:16,970 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-20 12:19:17,606 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 12:19:18,172 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-20 12:19:18,709 [main] INFO SeMethods - The element : Level is clicked 
+2020-02-20 12:19:19,112 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:19:22,812 [main] INFO SeMethods - Right click action is performed on the[[ChromeDriver: chrome on XP (dd19d4f00776d3ec5f51c746dad246b5)] -> xpath: //a[text()='QMS/FC/P/FCPA/0001']]
+2020-02-20 12:19:23,295 [main] INFO SeMethods - The element : Change request option is clicked 
+2020-02-20 12:19:24,470 [main] INFO SeMethods - The element : Delete document checkbox is clicked 
+2020-02-20 12:19:25,088 [main] INFO SeMethods - The data: Not following as per standards entered successfully in field
+2020-02-20 12:19:25,649 [main] INFO SeMethods - The data: Need more changes on this document entered successfully in field
+2020-02-20 12:19:26,143 [main] INFO SeMethods - The element : Continue button is clicked 
+2020-02-20 12:19:27,862 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:39:28,984 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:39:29,503 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 12:39:29,959 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 12:39:36,156 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 12:39:36,743 [main] INFO SeMethods - The element : Documents tab is clicked 
+2020-02-20 12:39:37,235 [main] INFO SeMethods - The element : Documents menu is clicked 
+2020-02-20 12:39:37,666 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:39:38,172 [main] INFO SeMethods - The element : Level search textbox is clicked 
+2020-02-20 12:39:38,789 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 12:39:39,496 [main] INFO SeMethods - The element : Search icon is clicked 
+2020-02-20 12:39:39,975 [main] INFO SeMethods - The element : Level  is clicked 
+2020-02-20 12:39:40,365 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 12:39:44,174 [main] INFO SeMethods - The data: QMS/FC/P/FCPA/0001 entered successfully in field
+2020-02-20 12:39:44,693 [main] INFO SeMethods - Enter key is pressed
+2020-02-20 12:40:06,573 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:47:03,798 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:47:05,543 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:47:10,079 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:47:11,514 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 12:47:15,861 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 12:47:17,275 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:13:43,921 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:13:46,024 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:14:21,445 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:14:26,300 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:14:28,421 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:19:42,175 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:19:43,883 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:19:48,693 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:19:50,178 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:19:54,415 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:19:55,861 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:25:17,697 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:25:19,479 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:30:59,301 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:31:01,129 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:32:51,888 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:32:53,691 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:32:58,061 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:32:59,597 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 14:57:06,590 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 14:57:08,351 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:02:12,014 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:02:13,903 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:10:51,258 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:10:51,863 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 15:10:52,383 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 15:11:01,275 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 15:11:02,043 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-20 15:11:02,535 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 15:11:03,560 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 15:11:04,309 [main] INFO SeMethods - The data: QMS FC Purchasing entered successfully in field
+2020-02-20 15:11:05,963 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:11:06,420 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:11:10,823 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:11:11,276 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 15:11:11,744 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 15:11:18,261 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 15:11:23,833 [main] INFO SeMethods - The element : Folder management menu is clicked 
+2020-02-20 15:11:25,641 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 15:11:26,306 [main] INFO SeMethods - The data: 01.FCPA entered successfully in field
+2020-02-20 15:11:27,676 [main] INFO SeMethods - The element : Clicked on search icon is clicked 
+2020-02-20 15:14:45,453 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:14:46,008 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 15:14:46,504 [main] INFO SeMethods - The data: admin entered successfully in field
+2020-02-20 15:14:53,998 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 15:14:54,939 [main] INFO SeMethods - The element : Levles menu is clicked 
+2020-02-20 15:14:55,440 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 15:14:56,558 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 15:15:04,411 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:15:04,815 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:15:09,262 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:15:09,754 [main] INFO SeMethods - The data: bh entered successfully in field
+2020-02-20 15:15:10,207 [main] INFO SeMethods - The data: a1 entered successfully in field
+2020-02-20 15:15:17,217 [main] INFO SeMethods - The element : Login button is clicked 
+2020-02-20 15:15:22,870 [main] INFO SeMethods - The element : Folder management menu is clicked 
+2020-02-20 15:15:24,547 [main] INFO SeMethods - switch In to the Frame
+2020-02-20 15:15:25,911 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:42,287 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:38:56,085 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:56,544 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:56,944 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:57,398 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:57,835 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:58,302 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:58,775 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:59,227 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:38:59,717 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:39:00,235 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:39:00,788 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:39:01,344 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:21,173 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-20 15:44:21,839 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-20 15:44:23,786 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:24,275 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:24,724 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:25,247 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:25,764 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:26,306 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:26,856 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:27,383 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:27,899 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:28,457 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:28,942 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-20 15:44:29,498 [main] INFO SeMethods - The opened Browsers are closed
+2020-02-21 19:37:32,192 [main] INFO SeMethods - The browser:chrome launched successfully
+2020-02-21 19:37:32,955 [main] INFO SeMethods - The data: administrator entered successfully in field
+2020-02-21 19:37:33,517 [main] INFO SeMethods - The data: admin entered successfully in field

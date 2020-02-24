@@ -11,27 +11,43 @@ public class DocProBasicFunctionality extends ProjectMethods {
 
 	@BeforeClass
 	public void setData() {
+		
+		System.out.println("before class1");
+		
 		excelName = "DocProTestData";
 		dataSheetName="TC006to17";
 		test = startTestCase("Browser Invoked", "TC Execuion");
 		category= "Smoke";
 		authors	="Bhuvana";
 		browserName ="chrome";
+		System.out.println("before class2");
 	}
 
-	@Test(dataProvider="fetchData",groups="smoke")
-
+	@Test(dataProvider="fetchData")
+	
+	
 	public void createParentLevels(String TestcaseNumber,String Runmode,String Scenario, String userName, String passWord,String levelName,String prefix,String reviewDue,String searchCriteria,String subLevelName,String subPrefix,String subReviewDue,String documentNumber,String documentName,String attachment,String code,String groupName,String draftComments, String reasonForRequest,String changesRequired, String revision, String docOwner  ) throws Throwable {
-
+		
+		
+		
+		
+		
 		testCaseName = Scenario;
 		testDescription =TestcaseNumber;
+	
 		test = startTestCase(testCaseName, testDescription);
-		
-		if(!Runmode.contains("Y")) {
-			throw new SkipException("Run mode set as No");
-		}
 
+		
+	
+		//if(!Runmode.contains("Y")) {
+		if(Runmode.contains("N")) {	
+		throw new SkipException("Run mode set as No");
+		}
+		
+		
 		switch(TestcaseNumber) {
+		
+		
 
 		case"TC006":
 
@@ -122,7 +138,7 @@ public class DocProBasicFunctionality extends ProjectMethods {
 			.moduleLandingPageLogin(userName, passWord)
 			.clickonDocumentstab()
 			.clickOnDocumentsMenu()
-			.reviseDocument(levelName, documentNumber, attachment, reasonForRequest, changesRequired);
+			.reviseDocument(levelName, documentNumber, attachment, reasonForRequest, changesRequired, documentName, revision, docOwner);
 			break;
 			
 		case "TC016":

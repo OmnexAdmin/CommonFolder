@@ -19,7 +19,7 @@ public class BasicSuiteFunctionality extends ProjectMethods {
 		browserName = "chrome";
 	}
 
-	@Test(dataProvider = "fetchData", groups="smoke")
+	@Test(dataProvider = "fetchData")
 
 	public void login(String TestcaseNumber,String Runmode,String Scenario, String userName, String passWord, String code,
 			String fName, String lName, String eMail, String uName, String pwd, String confirmPassword)

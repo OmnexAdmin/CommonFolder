@@ -9,7 +9,7 @@
           <include name="beforeMethod"/>
           <include name="afterTest"/>
           <include name="beforeSuite"/>
-          <include name="createParentLevels" invocation-numbers="5 9 10 11"/>
+          <include name="createParentLevels" invocation-numbers="0"/>
           <include name="afterSuite"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>

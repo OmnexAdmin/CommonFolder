@@ -23,17 +23,17 @@ public class DummyTestcase extends ProjectMethods{
 	
 	@Test(dataProvider="fetchData",groups="regression")
 	
-	public void requestDraft(String userName, String passWord,String searchCriteria,String documentNumber,String documentName,String attachment,String code) throws Throwable {
+	public void requestDraft(String userName, String passWord ,String levelName,String documentNumber,String attachment,String reasonForRequest, String changesRequired,String documentName,String revision,String docOwner) throws Throwable {
 		
 		testCaseName = "TC010 ";
 		testDescription = "New draft request";
 		test = startTestCase(testCaseName, testDescription);
-		
 		new LoginPage(driver,test)
 		.moduleLandingPageLogin(userName, passWord)
 		.clickonDocumentstab()
-		.clickOnNewDocDraftmenu()
-		.uploadNewDraft(searchCriteria,documentNumber,documentName,attachment,code) ;
+		.clickOnDocumentsMenu()
+		.reviseDocument(levelName, documentNumber, attachment, reasonForRequest, changesRequired, documentName, revision, docOwner);
+		
 		
 		
 	}
